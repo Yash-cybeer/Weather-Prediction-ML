@@ -12,8 +12,9 @@ ML-powered Weather Prediction using Gradient Boosting. Predicts Temperature, Hum
 
 ## Demo
 
-Run the notebook in Google Colab to see the live demo.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jweTD2dBSbMug0o73Dp3wtFojMBIhamy)
 
+Click the badge above to run the Weather Prediction notebook in Google Colab!
 ## Installation
 
 ```bash
